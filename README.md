@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on improving my codding skills<br>Currently learning: Vue.js, Node.js
+telescope I'm working on improving my codding skills<br>seedling Currently learning: Vue.js, Node.js
 
 
 ## 🌐 Socials:
