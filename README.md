@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎯 About Me:
 🔭 I'm working on improving my coding skills<br>🌱 Currently learning: Vue.js, Node.js
 
 
